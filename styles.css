@@ -6,6 +6,9 @@ button{
 	padding:10px;
 	
 }
+img{
+	object-fit:fill;
+}
 .hero{
 	display:flex;
 	justify-content: center;
