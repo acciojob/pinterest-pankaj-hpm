@@ -7,7 +7,7 @@ button{
 	
 }
 img{
-	object-fit:fill;
+	object-fit:cover;
 }
 .hero{
 	display:flex;
