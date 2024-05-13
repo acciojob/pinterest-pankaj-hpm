@@ -3,9 +3,12 @@ button{
 	color:white;
 	background-color:red;
 	border-radius:2px;
+	padding:10px;
 	
 }
 .hero{
 	display:flex;
+	justify-content: center;
+	 align-items: center;
 	
 }
